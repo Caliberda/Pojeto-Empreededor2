@@ -72,6 +72,18 @@ padding: 0 15%;
     text-align: center;
     padding: 16px 0;
 }
+.nossas-esmpresas{
+    text-align:center;
+    padding: 25px 0;
+}
+.empresa-todas{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+.empresas{
+    background-color: #AEAEBA;
+}
+
 .empresa-div2{
     text-align:center;
     padding: 16px 0;
